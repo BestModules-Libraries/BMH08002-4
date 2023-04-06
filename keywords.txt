@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map BMH08002-2
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+BMH08002_4	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+beginMeasure	KEYWORD2
+endMeasure	KEYWORD2
+sleep	KEYWORD2
+powerDown	KEYWORD2
+setModeConfig	KEYWORD2
+readInfoPackage	KEYWORD2
+updateWave	KEYWORD2
+calSensitivity	KEYWORD2
+getModeConfig	KEYWORD2
+readBytes	KEYWORD2
+setTimeInterval	KEYWORD2
+setModeConfig	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+START_MEASURE	LITERAL1
+STOP_MEASURE	LITERAL1
+ENTER_HALT	LITERAL1
+CHECK_OK	LITERAL1
+CHECK_ERROR	LITERAL1
+TIMEOUT_ERROR	LITERAL1
+
