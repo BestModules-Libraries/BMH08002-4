@@ -17,7 +17,7 @@ The BMH08002-4 is an oximeter and heart rate module from Best Modules, which use
 
 </div> 
 
-This library can be installed via the Arduino Library manager. Search for ** BMH08002-4**. 
+This library can be installed via the Arduino Library manager. Search for **BMH08002-4**. 
 
 Repository Contents
 -------------------
@@ -30,7 +30,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[ BMH08002-4 Arduino Library V1.0.1 Description v100](https://www.bestmodulescorp.com/bmh08002-4.html#tab-product2)** - Arduino Library Description.
+* **[BMH08002-4 Arduino Library V1.0.1 Description v100](https://www.bestmodulescorp.com/bmh08002-4.html#tab-product2)** - Arduino Library Description.
 
 Version History  
 -------------------
