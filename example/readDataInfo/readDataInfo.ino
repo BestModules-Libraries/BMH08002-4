@@ -19,7 +19,7 @@ void setup()
 {
   Serial.begin(9600); // start serial for output
   mySpo2.begin();
-  mySpo2.setModeConfig(0x01);//Timed transmission mode, red light on when finger is detected
+  mySpo2.setModeConfig(0x02);//Query response mode, red light on when finger is detected
   mySpo2.setTimeInterval(300);
   Serial.println("Please place your finger"); 
   delay(2000);  //Wait for finger placement
