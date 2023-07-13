@@ -36,6 +36,7 @@ Version History
 -------------------
 
 * **V1.0.1** - Initial public release.
+* **V1.0.2** - Modified the example heart rate unit.
 
 License Information
 -------------------
